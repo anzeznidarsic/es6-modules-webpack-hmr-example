@@ -4,6 +4,7 @@ const leetDevs = [
     'Steve Wozniak',
     'Anze Znidarsic',
     'Evan You',
-    'Taylor Otwell'];
+    'Taylor Otwell'
+];
 
 export default leetDevs;
